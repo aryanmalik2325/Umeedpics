@@ -1,4 +1,4 @@
-# HelpConnect – Community Help App
+# Umeedpics – Community Help App
 
 ## 🚀 Setup Instructions
 
