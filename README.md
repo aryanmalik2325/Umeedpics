@@ -85,3 +85,8 @@ HelpConnect/
 │       └── MapView.swift
 └── GoogleService-Info.plist
 ```
+
+👨‍💻 Author
+Aryan Malik
+
+⭐ If you like this project, consider giving it a star!
